@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Project\\Android\\android-design-library-master\\1-Base\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_home_black_24dp.png",
+        "source": "E:\\Project\\Android\\android-design-library-master\\1-Base\\src\\main\\res\\drawable-xhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Project\\Android\\android-design-library-master\\1-Base\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_favorite_black_24dp.png",
+        "source": "E:\\Project\\Android\\android-design-library-master\\1-Base\\src\\main\\res\\drawable-xhdpi\\ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Project\\Android\\android-design-library-master\\1-Base\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_add_white_24dp.png",
+        "source": "E:\\Project\\Android\\android-design-library-master\\1-Base\\src\\main\\res\\drawable-xhdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "E:\\Project\\Android\\android-design-library-master\\1-Base\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_white_24dp.png",
+        "source": "E:\\Project\\Android\\android-design-library-master\\1-Base\\src\\main\\res\\drawable-xhdpi\\ic_menu_white_24dp.png"
+    },
+    {
+        "merged": "E:\\Project\\Android\\android-design-library-master\\1-Base\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_share_black_24dp.png",
+        "source": "E:\\Project\\Android\\android-design-library-master\\1-Base\\src\\main\\res\\drawable-xhdpi\\ic_share_black_24dp.png"
+    }
+]

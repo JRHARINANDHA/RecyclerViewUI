@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2016 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string-array name="games">
+        <item>Counter Strike</item>
+        <item>Paladins</item>
+        <item>Limbo</item>
+        <item>Dead by Deadlight</item>
+        <item>Evolve</item>
+        <item>Broforce</item>
+    </string-array>
+    <string-array name="game_desc">
+        <item>Counter-Strike (officially abbreviated as CS) is a series of multiplayer first-person shooter video games, in which teams of terrorists and counter-terrorists battle.
+        </item>
+        <item>Paladins is a First Person Shooter game developed by Hi-Rez Studios</item>
+        <item>Limbo is a puzzle-platform video game developed by independent studio Playdead.</item>
+        <item>Dead by Daylight is an asymmetric survival horror video game</item>
+        <item>Evolve is a first-person shooter video game developed by Turtle Rock Studios, published by 2K Games and distributed by Take-Two Interactive.</item>
+        <item>Broforce is a side-scrolling run-and-gun platform video game developed by Free Lives and published by Devolver Digital.</item>
+    </string-array>
+    <string-array name="game_details">
+        <item>The game was followed-up with Counter-Strike: Condition Zero, developed by Turtle Rock Studios and released in 2004.
+            Later that same year, Counter-Strike: Source was released by Valve. Released only eight months after
+            Counter-Strike: Condition Zero, in November 2004, the game was a remake of the original Counter-Strike and the first
+            in the series to run on Valves newly created Source engine.
+        </item>
+        <item>Each player controls a champion character with differing abilities, and they are split into two teams who compete
+            to achieve objectives. In response to accusations that the game is an Overwatch clone, Hi-Rez COO Todd Harris said that
+            "Overwatch was not the inspiration for Paladins", and "the game that deserves the most credit is Team Fortress 2".
+        </item>
+        <item>Limbo is a 2D sidescroller, incorporating the physics system Box2D to govern environmental objects and the player
+            character. The player guides an unnamed boy through dangerous environments and traps as he searches for his sister.
+            The developer built the games puzzles expecting the player to fail before finding the correct solution. Playdead
+            called the style of play "trial and death", and used gruesome imagery for the boys deaths to steer the player from
+            unworkable solutions.
+        </item>
+        <item>A group of survivors – anywhere from one to four players (typically four) – must elude one player who is the killer
+            in an enclosed area at night which will either be a secluded forest, an abandoned junkyard, a decrepit cornfield, a
+            haunted asylum, a dark swamp or the small town of Haddonfield, Illinois. The survivors perspectives are third-person,
+            while the killers perspective is first-person.
+        </item>
+        <item>Evolve is an action video game with a focus on both co-operative, and competitive, multiplayer gameplay. The game
+            adapts a 4v1 asymmetrical structure where four players take control of the Hunters, while the fifth player controls
+            the Monster. The Hunters main objective is to track and hunt the Monster in a limited amount of time, while the
+            Monsters goal is to evolve and make themselves more powerful.</item>
+        <item>The player-character is a bro, a hypermasculine action hero-style commando, who fights terrorists and rescues his bro
+            teammates and prisoners of war from captivity. The games destructible environments wear away with the players
+            gunfire. The levels end when the player defeats a devil boss, hoists an American flag, and leaves via helicopter
+            while the scenery explodes.
+        </item>
+    </string-array>
+    <array name="game_avatar">
+        <item>@drawable/a_avator</item>
+        <item>@drawable/b_avator</item>
+        <item>@drawable/c_avator</item>
+        <item>@drawable/d_avator</item>
+        <item>@drawable/e_avator</item>
+        <item>@drawable/f_avator</item>
+    </array>
+    <array name="games_picture">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+    </array>
+</resources>
